@@ -1,0 +1,43 @@
+{
+  "name": "gulp-dark-side-starter-kit",
+  "version": "1.0.0",
+  "description": "Gulp task automation starter kit with ES6,Sass,Pug,Font Icons,Images Optimizer, and Bootstrap 3",
+  "main": "gulpfile.js",
+  "author": "Pajaani Soobrayen <sbrnpjn@gmail.com>",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^10.0.0",
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.9.3",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-data": "^1.2.0",
+    "gulp-iconfont": "^10.0.2",
+    "gulp-iconfont-css": "^2.3.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-pug": "^3.0.3",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^2.6.4",
+    "jquery": "^3.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cbugs/gulp-starter-kit.git"
+  },
+  "keywords": [
+    "jade",
+    "gulp",
+    "pug",
+    "sass",
+    "browsersync"
+  ]
+}
